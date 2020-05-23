@@ -17,3 +17,5 @@
 Результат работы программы - Payment.pdf
 
 Пример, на основе которого создавался бланк для оплаты - Blank.pdf
+
+Для анализа HTML конструкции PDF файла Blank, на основе которой был реализован PDF файл Payment, был использован сайт https://www.pdfconvertonline.com/pdf-to-html-online.html
